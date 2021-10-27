@@ -1,2 +1,3 @@
 # Frida-Kahlo
- The first project in the codecademy Data Science Path
+
+A very simple project using Python to create a list of Frida Kahlo's paintings for an audio tour in a hypothetical museum.
